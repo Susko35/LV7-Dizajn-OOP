@@ -1,0 +1,7 @@
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\bin\Debug\TestingLV7.exe.config
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\bin\Debug\TestingLV7.exe
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\bin\Debug\TestingLV7.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\obj\Debug\TestingLV7.csprojAssemblyReference.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\obj\Debug\TestingLV7.csproj.CoreCompileInputs.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\obj\Debug\TestingLV7.exe
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\TestingLV7\obj\Debug\TestingLV7.pdb

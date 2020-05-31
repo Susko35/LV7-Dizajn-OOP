@@ -1,0 +1,6 @@
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\obj\Debug\FizzBuzzer.csprojAssemblyReference.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\obj\Debug\FizzBuzzer.csproj.CoreCompileInputs.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\bin\Debug\FizzBuzzer.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\bin\Debug\FizzBuzzer.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\obj\Debug\FizzBuzzer.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\FizzBuzzer\obj\Debug\FizzBuzzer.pdb

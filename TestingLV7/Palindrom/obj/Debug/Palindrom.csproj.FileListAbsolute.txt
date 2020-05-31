@@ -1,0 +1,5 @@
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom\bin\Debug\Palindrom.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom\bin\Debug\Palindrom.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom\obj\Debug\Palindrom.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom\obj\Debug\Palindrom.pdb

@@ -1,0 +1,16 @@
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\NUnit3.TestAdapter.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\nunit.engine.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\nunit.engine.api.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\Palindrom.Test.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\Palindrom.Test.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\nunit.framework.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\Palindrom.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\Palindrom.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\nunit.framework.pdb
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\bin\Debug\nunit.framework.xml
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\obj\Debug\Palindrom.Test.csprojAssemblyReference.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\obj\Debug\Palindrom.Test.csproj.CoreCompileInputs.cache
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\obj\Debug\Palindrom.Test.csproj.CopyComplete
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\obj\Debug\Palindrom.Test.dll
+D:\Doop\LV7-Dizajn-OOP\LV7-Dizajn-OOP\TestingLV7\Palindrom.Test\obj\Debug\Palindrom.Test.pdb
