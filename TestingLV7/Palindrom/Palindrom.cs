@@ -11,11 +11,7 @@ namespace Palindrom
         public String Convert(String value)
         {
             if (value == null) throw new ArgumentException();
-
-            //value.Replace(" ", "");
-            //value.ToLower();
-            String output = value.ToLower().Replace(" ", "").Replace("*", "").Replace(",", "").Replace(".", ""); 
-            //output = output.Replace(" ", "");
+            String output = value.ToLower().Replace(" ", "").Replace("*", "").Replace(",", "").Replace(".", "");
             return Reverse(output);
         }
 
